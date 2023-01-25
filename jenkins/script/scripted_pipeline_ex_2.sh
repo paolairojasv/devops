@@ -1,5 +1,3 @@
 #!/bin/sh
-echo "HELLO WORLD PABLOV!"
-num=0
-num=$((6+2))
-echo $num
+echo "Esto es una prueba de Pipeline de JENKINS!"
+echo 8 * 9
